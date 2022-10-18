@@ -1,8 +1,5 @@
-# Install
-- `npm install`
-
-# Run
+# Pour lancer le serveur
 - `npm run serve`
 
-# Test 
-- `npm run test`
+#  Pour lancer le client
+- `npm run client`
