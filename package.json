@@ -4,10 +4,10 @@
   "description": "TP noté",
   "main": "app.js",
   "scripts": {
-    "serve": "node app.js",
+    "server": "node app.js",
     "client": "node fake-client.js"
   },
-  "author": "",
+  "author": "Jaremczuk Jonathan",
   "license": "ISC",
   "dependencies": {
     "bcrypt": "^5.1.0",
