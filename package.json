@@ -1,0 +1,21 @@
+{
+  "name": "tp-auth",
+  "version": "1.0.0",
+  "description": "TP noté",
+  "main": "app.js",
+  "scripts": {
+    "serve": "node app.js",
+    "client": "node fake-client.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "dotenv": "^10.0.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "axios": "^0.21.1"
+  }
+}
