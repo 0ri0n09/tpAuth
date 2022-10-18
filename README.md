@@ -5,4 +5,4 @@
 - `npm run client`
 
 # Pour tester avec un des trois utilisateurs (Admin, Bob, Alice)
- `Modifier la requête url dans le fichier "fake-client.js" (requête post "/login", ligne 10) ou utiliser Postman`
+- `Modifier la requête url dans le fichier "fake-client.js" (requête post "/login", ligne 10) ou utiliser Postman`
