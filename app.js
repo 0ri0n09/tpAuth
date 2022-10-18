@@ -32,7 +32,7 @@ let posts = [
   {
     "id": "456",
     "author": "123",
-    "content": "contenu de Bob n°1"
+    "content": "contenu de Bob"
   },
   {
     "id": "654",
@@ -66,8 +66,6 @@ app.post ('/api/login', (req, res) => {
       return;
     }
   });
-
-  console.log (currentUser);
 
   if (currentUser == undefined) {
     res.status(401).send('Aucun utilisateur trouvé, identifiants invalides');
