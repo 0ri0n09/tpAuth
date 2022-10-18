@@ -1,7 +1,7 @@
 # Pour lancer le serveur sur le port 3000
 - `npm run server`
 
-#  Pour lancer le client
+#  Pour lancer le client dans un autre terminal
 - `npm run client`
 
 # Pour tester avec un des trois utilisateurs (Admin, Bob, Alice)
